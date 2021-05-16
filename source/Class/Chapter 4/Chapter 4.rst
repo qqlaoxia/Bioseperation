@@ -57,7 +57,7 @@
 随堂练习 
 ----------------------------------
 
-- 联系网址：https://ks.wjx.top/vj/m5LiIYX.aspx
+- 练习网址：https://ks.wjx.top/vj/m5LiIYX.aspx
 
 .. figure:: lianxi/qrcode1.jpg
    :align: right
