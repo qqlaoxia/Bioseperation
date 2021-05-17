@@ -62,3 +62,11 @@
 .. figure:: lianxi/qrcode1.jpg
    :align: right
    :scale: 100 %
+
+
+课堂展示
+----------------------------------------------------
+
+.. toctree::
+
+   Class_Show/18041125.rst

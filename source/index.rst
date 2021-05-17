@@ -42,8 +42,14 @@
    Author/xiaofeng.rst
    Author/cuijingkang.rst
    
+自主学习
+===================  
+.. toctree::
+   :maxdepth: 2
+   :numbered:
    
-   
+   Books/Book.rst
+   Books/Reference.rst
 
 
 Indices and tables
