@@ -4,11 +4,11 @@
 演讲资料
 --------------------------------
 
-.. raw:: html
+-  `演讲PPT-《细胞破碎》`_
+-  `分享文献`_
 
-   <li class="toctree-l1"><a class="reference internal" href="18041125.pptx">演讲PPT:《细胞破碎》</a></li>
-   <li class="toctree-l1"><a class="reference internal" href="18041125.pdf">分享文献</a></li>
-
+.. _演讲PPT-《细胞破碎》: https://raw.githubusercontent.com/qqlaoxia/Bioseperation/master/build/html/Class/Chapter%204/Class_Show/18041125.pptx
+.. _分享文献: https://raw.githubusercontent.com/qqlaoxia/Bioseperation/master/build/html/Class/Chapter%204/Class_Show/18041125.pdf
 
 演讲视频-Part I
 ------------------------------------
