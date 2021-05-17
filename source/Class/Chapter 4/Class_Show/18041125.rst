@@ -4,12 +4,11 @@
 演讲资料
 --------------------------------
 
-- 演讲PPT -《细胞破碎》
-- 分享文献- 《三角褐指藻细胞破碎方法的研究》
-- 链接：https://pan.baidu.com/s/1YAS1hSln9X2_Wv-uvNLMRg 
-- 提取码：0kwb 
+-  `演讲PPT-《细胞破碎》`_
+-  `分享文献`_
 
-
+.. _演讲PPT-《细胞破碎》: https://raw.githubusercontent.com/qqlaoxia/Bioseperation/master/build/html/Class/Chapter%204/Class_Show/18041125.pptx
+.. _分享文献: https://raw.githubusercontent.com/qqlaoxia/Bioseperation/master/build/html/Class/Chapter%204/Class_Show/18041125.pdf
 
 演讲视频-Part I
 ------------------------------------
