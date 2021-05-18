@@ -68,6 +68,7 @@
 ----------------------------------------------------
 
 .. toctree::
+   :maxdepth: 1
 
    Class_Show/18041125.rst
    Class_Show/18041125Chen.rst
