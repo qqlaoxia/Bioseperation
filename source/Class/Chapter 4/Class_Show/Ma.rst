@@ -7,7 +7,7 @@
 -  `演讲PPT-《细胞破碎》`_
 
 
-.. _演讲PPT-《细胞破碎》: https://raw.githubusercontent.com/qqlaoxia/Bioseperation/master/build/html/Class/Chapter%204/Class_Show/18041125.pptx
+.. _演讲PPT-《细胞破碎》: https://raw.githubusercontent.com/qqlaoxia/Bioseperation/master/build/html/Class/Chapter%204/Class_Show/%E9%A9%AC%E4%BF%8A%E5%8D%BF%E3%80%81%E5%AE%8B%E6%98%BE%E7%82%B3%E3%80%81%E5%90%B4%E4%BA%9A%E6%9D%BE%E3%80%81%E8%8A%AE%E9%93%AD%E9%98%B3.pptx
 
 
 演讲视频-Part I
