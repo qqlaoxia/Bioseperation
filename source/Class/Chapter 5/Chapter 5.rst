@@ -41,3 +41,22 @@
 .. figure:: lianxi/qrcode.jpg
    :align: right
    :scale: 100 %
+
+课堂学习素材
+----------------------------------------
+
+.. toctree::
+
+   Video1.rst
+   Video2.rst
+   Video3.rst
+   Video4.rst
+   Video5.rst
+   Video6.rst
+   Video7.rst
+   Video8.rst
+   Video9.rst
+   Video10.rst
+   Video11.rst
+   Video12.rst
+   Video14.rst
