@@ -30,3 +30,43 @@
 --------------------------
 
 以膜分离技术的重要性为融入点，引导学生正确认识发展绿色分离技术的重要性；通过对当前市场上先进饮水装置的展示，引导学生学会“学以致用”，用自己所学创造价值，为社会做贡献。 
+
+
+课前复习练习
+------------------------------------------
+
+- 练习网址：https://ks.wjx.top/vj/tlbabbA.aspx
+
+.. figure:: lianxi/qrcode.jpg
+   :align: right
+   :scale: 100 %
+
+自学课件
+---------------------------------------
+
+- 链接：https://pan.baidu.com/s/1ORg_Hdv0TRURMThpf9aTYw 
+- 提取码：ui1r 
+
+
+自学视频
+---------------------------------------------
+
+.. toctree::
+
+   Class6.1.rst
+   Class6.2.rst
+   Class6.3.rst
+
+
+课堂学习素材
+----------------------------------------
+
+.. toctree::
+
+   Video1.rst
+   Video2.rst
+   Video3.rst
+   Video4.rst
+   Video5.rst
+   Video6.rst
+   Video7.rst
