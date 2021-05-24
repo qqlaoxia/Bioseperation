@@ -10,7 +10,7 @@
 .. _演讲PPT-《细胞破碎》: https://raw.githubusercontent.com/qqlaoxia/Bioseperation/master/build/html/Class/Chapter%204/Class_Show/18041223%20%E6%9D%8E%E6%A2%A6%E6%B6%B5%E3%80%8118041220%20%E6%B5%B7%E5%A8%9C%E3%80%8118041129%20%E5%BC%A0%E9%9B%A8%E6%B6%B5%E3%80%8118041201%20%E7%99%BD%E6%A1%A6.pptx
 
 
-演讲视频-Part I
+演讲视频
 ------------------------------------
 
 .. raw:: html
@@ -20,13 +20,3 @@
    <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/135d91b1-1799ebafbfc/135d91b1-1799ebafbfc.mp4" type="video/mp4" />
    </video>
    
-
-演讲视频-Part II
-------------------------------------
-
-.. raw:: html
-
-
-   <video width="100%" height="100%" controls>
-   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/570df030-1797897ff70/570df030-1797897ff70.mp4" type="video/mp4" />
-   </video>
