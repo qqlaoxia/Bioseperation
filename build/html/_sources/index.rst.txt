@@ -50,6 +50,7 @@
    
    Books/Book.rst
    Books/Reference.rst
+   Practice/index.rst
 
 
 Indices and tables
