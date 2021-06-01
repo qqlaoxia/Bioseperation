@@ -45,7 +45,6 @@
 自主学习
 ===================  
 .. toctree::
-   :maxdepth: 2
    :numbered:
    
    Books/Book.rst
