@@ -31,3 +31,13 @@
 ----------------------------
 
 以离子交换树脂之父何炳林的事迹为融入点，进行爱国主义教育，激发学生的爱国热情，鉴定理想信念，更加深入体会“富强”、“民主”等核心价值观的内涵
+
+学生课堂展示
+-----------------------------------------------
+
+.. toctree::
+
+   Class_Show/lizijiaohuan-duanxiaochang.rst
+   Class_Show/lizijiaohuan-guansuan.rst
+   Class_Show/lizijiaohuan-lifengyi.rst
+   Class_Show/lizijiaohuan-fanjiayu.rst
