@@ -43,6 +43,15 @@
    Video4.rst
    Video5.rst
 
+自我检测
+----------------------------------
+
+.. toctree::
+   :maxdepth: 2
+   
+   Practice/index.rst
+
+
 学生作业
 --------------
 
