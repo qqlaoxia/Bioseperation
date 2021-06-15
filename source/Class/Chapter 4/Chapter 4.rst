@@ -57,11 +57,13 @@
 随堂练习 
 ----------------------------------
 
-- 练习网址：https://ks.wjx.top/vj/m5LiIYX.aspx
+- 练习网址：https://ks.wjx.top/vj/tlbabbA.aspx
 
 .. figure:: lianxi/qrcode1.jpg
    :align: right
-   :scale: 100 %
+   :scale: 10 %
+
+- 致谢：题目由万和林、朱振昊、张孟灏整理
 
 
 课堂展示
