@@ -31,10 +31,37 @@
 
 以啤酒生产中过滤工艺的发展历程为融入点，引导学生思索“创新引领发展”的道理以及如何通过创新提升竞争力，培养学生敬业、精益、专注和创新的工匠精神以及勇于创新的科学精神。
 
+课堂自学视频
+---------------------------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   Video 1.rst
+   Video 2.rst
+   Video 3.rst
+   Video 4.rst
+   Video 5.rst
+   Video 6.rst
+
+
+
+课外知识拓展
+----------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   Extracurricular Video.rst
+
+
+
 自我检测
 ------------------------------------
 
 .. toctree::
    
    Practice/index.rst
+
+
 

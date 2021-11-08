@@ -31,6 +31,37 @@
 以日常生活中“卤水点豆腐”为案例，讲述古法制备豆腐的基本原理，对沉淀签的煮浆环节进行探讨，让学生体会中国传统的智慧，增强文化自信。
 
 
+课堂学习视频
+----------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   Video xia-0.rst
+   Video 1.rst
+
+
+
+课外延伸
+------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   Extracurricular Video - 1.rst
+   Extracurricular Video - 2.rst
+   Extracurricular Video - 3.rst
+   Extracurricular Video - 4.rst
+   Extracurricular Video - 5.rst
+   Extracurricular Video - 6.rst
+   Extracurricular Video - 7.rst
+   Extracurricular Video - 8.rst
+   Extracurricular Video - 9.rst
+
+
+
+
+
 自我检测
 -------------------------
 
@@ -39,3 +70,4 @@
    Practice/index.rst
    
    
+
