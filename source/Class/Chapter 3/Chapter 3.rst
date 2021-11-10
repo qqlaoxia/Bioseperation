@@ -55,6 +55,18 @@
    Extracurricular Video.rst
 
 
+本章节应用APP开发
+-------------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   App1.rst
+   App2.rst
+
+
+
+
 
 自我检测
 ------------------------------------
@@ -62,6 +74,12 @@
 .. toctree::
    
    Practice/index.rst
+
+
+
+
+
+
 
 
 
