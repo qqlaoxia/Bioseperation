@@ -63,6 +63,7 @@
 
    App1.rst
    App2.rst
+   App3.rst
 
 
 
