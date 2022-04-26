@@ -36,11 +36,12 @@
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
-   
-   Author/feiyu.rst
-   Author/xiaofeng.rst
-   Author/cuijingkang.rst
+
+   Author/list.rst
+
+
+
+
    
 自主学习
 ===================  
@@ -58,3 +59,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
