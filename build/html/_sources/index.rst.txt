@@ -51,6 +51,8 @@
    Books/Book.rst
    Books/Reference.rst
    Practice/index.rst
+   Plan/index.rst
+
 
 
 Indices and tables
@@ -59,5 +61,7 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
 
 
