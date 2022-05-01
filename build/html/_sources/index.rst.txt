@@ -54,6 +54,17 @@
    Plan/index.rst
 
 
+重要通知
+==============================
+
+.. toctree::
+   :maxdepth: 2
+
+   Note/index.rst
+
+
+
+
 
 Indices and tables
 ==================
@@ -61,6 +72,8 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
 
 
 
