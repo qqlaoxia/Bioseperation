@@ -55,6 +55,17 @@
    Extracurricular Video.rst
 
 
+课堂PPT
+---------------------------------
+
+
+- 链接：https://pan.baidu.com/s/1MeynlvuzHvNWnZf9DN9Wnw 
+- 提取码：咨询老师
+
+
+
+
+
 本章节应用APP开发
 -------------------------------
 
@@ -75,6 +86,8 @@
 .. toctree::
    
    Practice/index.rst
+
+
 
 
 
