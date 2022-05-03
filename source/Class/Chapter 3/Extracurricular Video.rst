@@ -2,6 +2,10 @@
 Typical equipments and their working principles
 =======================================================================================
 
+
+过滤设备
+----------------------------------
+
 .. toctree::
    :maxdepth: 2
    
@@ -20,3 +24,20 @@ Typical equipments and their working principles
    Video E12
    Video E13
    Video E14
+
+
+离心设备
+-----------------------------------
+
+
+.. toctree::
+   :maxdepth: 2
+
+   Video E15.rst
+   Video E16.rst
+   Video E17.rst
+   Video E18.rst
+
+
+
+
