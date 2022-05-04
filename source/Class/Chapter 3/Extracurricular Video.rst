@@ -37,6 +37,16 @@ Typical equipments and their working principles
    Video E16.rst
    Video E17.rst
    Video E18.rst
+   Video E19.rst
+   Video E20.rst
+   Video E21.rst
+   Video E22.rst
+   Video E23.rst
+   Video E24.rst
+   Video E25.rst
+   Video E26.rst
+
+
 
 
 
