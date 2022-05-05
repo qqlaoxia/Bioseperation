@@ -76,6 +76,13 @@
 本章节代码推导
 -----------------------------------
 
+.. toctree::
+   :maxdepth: 2
+
+   code/list.rst
+
+
+
 
 
 本章节应用APP开发
@@ -98,6 +105,8 @@
 .. toctree::
    
    Practice/index.rst
+
+
 
 
 
