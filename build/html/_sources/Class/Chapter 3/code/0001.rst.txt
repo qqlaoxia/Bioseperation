@@ -1,0 +1,34 @@
+离心推导（方法1）
+=====================
+
+推导公式
+---------------------------
+
+.. image:: 0001.png
+   :align: center
+   :width: 100%px
+
+.. image:: 0002.png
+   :align: center
+   :width: 100%px
+
+.. image:: 0003.png
+   :align: center
+   :width: 100%px
+
+.. image:: 0004.png
+   :align: center
+   :width: 100%px
+
+
+推导代码
+------------------------------
+
+::
+
+   syms FB pi d ps p a;
+   FB=(pi*d^3/6*(ps-p))*a;
+   syms FD u v
+   FD=3*pi*d*u*v;
+   solve(FD-FB==0,v)
+
