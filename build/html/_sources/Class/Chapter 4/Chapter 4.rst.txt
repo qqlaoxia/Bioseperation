@@ -70,11 +70,11 @@
 ----------------------------------------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   Class_Show/18041125.rst
-   Class_Show/18041125Chen.rst
-   Class_Show/18041223-Li.rst
-   Class_Show/18041305-Jiang.rst
-   Class_Show/Ma.rst
-   
+   Class_Show/list.rst
+
+
+
+
+
