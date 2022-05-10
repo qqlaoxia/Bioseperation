@@ -4,8 +4,8 @@
 .. toctree::
    :maxdepth: 2
 
-   0001.md
-   0002.md
+   0001.rst
+   0002.rst
 
 
 
