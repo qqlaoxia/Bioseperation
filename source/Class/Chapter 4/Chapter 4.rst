@@ -53,6 +53,22 @@
    Vidoe 5.rst
    Vidoe 6.rst
    Vidoe 7.rst
+   Vidoe 8.rst
+   Vidoe 9.rst
+   Vidoe 10.rst
+   Vidoe 11.rst
+   Vidoe 12.rst
+   Vidoe 13.rst
+   Vidoe 14.rst
+   Vidoe 15.rst
+   Vidoe 16.rst
+   Vidoe 17.rst
+   Vidoe 18.rst
+   Vidoe 19.rst
+   Vidoe 20.rst
+   Vidoe 21.rst
+   Vidoe 22.rst
+   Vidoe 23.rst
 
 随堂练习 
 ----------------------------------

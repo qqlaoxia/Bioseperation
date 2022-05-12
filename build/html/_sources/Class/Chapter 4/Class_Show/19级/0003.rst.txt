@@ -1,0 +1,22 @@
+普通班-第六组：齐凯，蔡世杰，朱柏松，邰俊，史帆
+===============================================
+
+演讲详情
+--------
+
+-  时间：2022-5-10
+
+-  地点：9-8阶梯
+
+-  评价：思路清晰，讲得很好
+
+-  得分：89分
+
+具体视频
+--------
+
+.. raw:: html
+
+   <html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><video controls="" height="100%" width="100%">
+      <source data-src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/36b37ff5-180b10c32d3/36b37ff5-180b10c32d3.mp4" type="video/mp4" src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/36b37ff5-180b10c32d3/36b37ff5-180b10c32d3.mp4" />
+      </video></body></html>
