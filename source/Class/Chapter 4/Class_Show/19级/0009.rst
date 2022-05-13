@@ -1,0 +1,22 @@
+普通班-第七组：郭厚良、张艺馨、赵晶晶、张莹琦
+===============================================
+
+演讲详情
+--------
+
+-  时间：2022-5-10
+-  地点：3-102
+-  评价：思路清晰，知识点全面
+-  得分：90分
+-  主讲人：95分
+
+具体视频
+--------
+
+.. raw:: html
+
+   <html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><video controls="" height="100%" width="100%">
+      <source data-src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/8f510fd-180b0fd1993/8f510fd-180b0fd1993.mp4" type="video/mp4" src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/8f510fd-180b0fd1993/8f510fd-180b0fd1993.mp4" />
+      </video></body></html>
+
+

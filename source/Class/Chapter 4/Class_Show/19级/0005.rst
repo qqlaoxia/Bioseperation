@@ -1,0 +1,22 @@
+普通班-第九组：郭厚良、张艺馨、赵晶晶、张莹琦
+===============================================
+
+演讲详情
+--------
+
+-  时间：2022-5-10
+-  地点：3-102
+-  评价：思路清晰，知识点全面
+-  得分：90分
+-  主讲人（待补充）：95分
+
+具体视频
+--------
+
+
+.. raw:: html
+
+   <video width="100%" height="100%" controls>
+   <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/5babaa9-180bae1b1d5/5babaa9-180bae1b1d5.mp4" type="video/mp4" />
+   </video>
+
