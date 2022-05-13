@@ -39,7 +39,6 @@
 
 .. figure:: lianxi/qrcode.jpg
    :align: right
-   :scale: 100 %
 
 自学课件
 ---------------------------------------
@@ -90,3 +89,5 @@
 
    Class_Show/Zhou.rst
    Class_Show/mofenli--1.rst
+
+
