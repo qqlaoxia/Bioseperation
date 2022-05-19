@@ -11,6 +11,9 @@
    shiyanban.rst
    putongban.rst
    cailiao.rst
+   note3.rst
+
+
 
 
 
