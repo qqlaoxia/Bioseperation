@@ -69,6 +69,7 @@
    Vidoe 21.rst
    Vidoe 22.rst
    Vidoe 23.rst
+   Vidoe 24.rst
 
 随堂练习 
 ----------------------------------
@@ -89,6 +90,8 @@
    :maxdepth: 2
 
    Class_Show/list.rst
+
+
 
 
 

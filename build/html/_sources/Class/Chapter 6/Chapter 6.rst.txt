@@ -61,14 +61,9 @@
 ----------------------------------------
 
 .. toctree::
+   :maxdepth: 2
 
-   Video1.rst
-   Video2.rst
-   Video3.rst
-   Video4.rst
-   Video5.rst
-   Video6.rst
-   Video7.rst
+   Video.rst
    
 
 自我测验
@@ -89,5 +84,7 @@
 
    Class_Show/Zhou.rst
    Class_Show/mofenli--1.rst
+
+
 
 
