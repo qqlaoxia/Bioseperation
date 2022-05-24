@@ -36,6 +36,21 @@
    Video29.rst
    Video30.rst
    Video31.rst
+   Video32.rst
+   Video33.rst
+   Video34.rst
+   Video35.rst
+   Video36.rst
+   Video37.rst
+   Video38.rst
+   Video39.rst
+   Video40.rst
+   Video41.rst
+
+
+
+
+
 
 
 
