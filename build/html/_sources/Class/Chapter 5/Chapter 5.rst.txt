@@ -83,10 +83,12 @@
 --------------------------------------------------
 
 .. toctree::
+   :maxdepth: 2
 
-   Class_Show/chengfeiyu.rst
-   Class_Show/cuiqufenliyuanli.rst
-   Class_Show/cuiqugongyi.rst
-   Class_Show/fanjiaotuan.rst
-   Class_Show/shengwucuiqujishu.rst
-   Class_Show/cuiqufazhibeirusuan
+   Class_Show/19级/index.rst
+   Class_Show/18级/index.rst
+
+
+
+
+
