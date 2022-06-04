@@ -80,10 +80,10 @@
 ----------------------------------------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   Class_Show/Zhou.rst
-   Class_Show/mofenli--1.rst
+   Class_Show/index.rst
+
 
 
 
