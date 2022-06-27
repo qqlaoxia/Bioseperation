@@ -63,8 +63,11 @@
 -----------------------------------------------
 
 .. toctree::
+   :maxdepth: 2
 
-   Class_Show/lizijiaohuan-duanxiaochang.rst
-   Class_Show/lizijiaohuan-guansuan.rst
-   Class_Show/lizijiaohuan-lifengyi.rst
-   Class_Show/lizijiaohuan-fanjiayu.rst
+   Class_Show/index.rst
+
+
+
+
+

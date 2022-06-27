@@ -12,4 +12,3 @@
    <video width="100%" height="100%" controls>
    <source src="https://outin-0fed40cae50711eaa61200163e1c94a4.oss-cn-shanghai.aliyuncs.com/sv/4112fe72-181816e85bb/4112fe72-181816e85bb.mp4" type="video/mp4" />
    </video>
-
