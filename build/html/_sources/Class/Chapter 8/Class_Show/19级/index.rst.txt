@@ -7,6 +7,15 @@
 
    GROUP4-ybd.rst
    GROUP5-dlc.rst
+   group6.rst
+   group7.rst
+   group8.rst
+
+
+
+
+
+
 
 
 
